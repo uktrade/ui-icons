@@ -1,0 +1,50 @@
+svg.icon {
+ display: inline-block;
+}
+
+.icon-triangle-down {
+	width: 20px;
+	height: 20px;
+}
+
+.icon-triangle-down {
+
+}
+
+.icon-checkmark {
+
+}
+
+
+/* */
+
+.icon-triangle-down.blue {
+	stroke: blue;
+	fill: red;
+}
+
+.icon-triangle-down.blue{
+	stroke: blue;
+	fill: red;
+}
+
+.blue .icon-checkmark {
+
+}
+
+/* */
+
+.grey .icon-triangle-down {
+
+	}
+
+.grey .icon-triangle-down {
+
+	}
+
+.grey .icon-checkmark {
+
+	}
+}
+
+
